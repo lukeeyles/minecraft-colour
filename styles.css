@@ -1,0 +1,31 @@
+body {
+    background-color: #1e1e1e;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    color: #dadada;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
+
+div.sidebar {
+    width: 20%;
+    height: 100%;
+    background-color: #262626;
+    padding: 20px;
+    position: fixed;
+    list-style-type: none;
+    max-width: 200px;
+}
+
+div.content {
+    display: inline-block;
+    margin-left: 20%;
+    padding-left: 60px;
+}
